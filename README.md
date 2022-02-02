@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Max
-![](<iframe src="https://giphy.com/embed/l0K4n42JVSqqUvAQg" width="480" height="297" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/chuber-qa-quality-assurance-l0K4n42JVSqqUvAQg"></a></p>
+![](https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif)
 
 I'm Automation Quality Assurance Engineer
 <h3 align="left">Languages and Tools:</h3>
