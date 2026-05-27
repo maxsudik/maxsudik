@@ -40,6 +40,8 @@ I work where traditional automation meets AI-augmented QA — distributed framew
 
 ### 🛠 Tech
 
+**🧪 Test Automation**
+
 <p>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
@@ -52,6 +54,17 @@ I work where traditional automation meets AI-augmented QA — distributed framew
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white" />
 </p>
 
+**🤖 AI / LLM Tooling**
+
+<p>
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT%20Agents-10A37F?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat&logo=openai&logoColor=white" />
+</p>
+
+**💻 Languages & Runtimes**
+
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
@@ -61,12 +74,7 @@ I work where traditional automation meets AI-augmented QA — distributed framew
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=githubcopilot&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT%20Agents-10A37F?style=flat&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat&logo=openai&logoColor=white" />
-</p>
+**☁️ CI/CD & Cloud**
 
 <p>
 <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white" />
@@ -78,9 +86,17 @@ I work where traditional automation meets AI-augmented QA — distributed framew
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
+**⚡ Performance**
+
 <p>
-<img src="https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white" />
 <img src="https://img.shields.io/badge/BlazeMeter-CE2027?style=flat" />
+<img src="https://img.shields.io/badge/WebLoad-1E88E5?style=flat" />
+</p>
+
+**🗄 Data & Observability**
+
+<p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
