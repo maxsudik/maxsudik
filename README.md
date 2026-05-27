@@ -1,34 +1,62 @@
-### Hi there 👋, my name is Max
-![](https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif)
+<h1 align="left">Hi, I'm Max 👋</h1>
 
-I'm Automation Quality Assurance Engineer
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="left">
+  <b>Lead Quality Engineering Manager</b> · Vancouver, Canada<br/>
+  Building automation-first QA orgs for cloud-native SaaS — now with a heavy dose of AI.
+</p>
 
-- 🔭 I’m currently working on ([Java Automation Framework](https://github.com/maxsudik/JQMax)) 
-- 🌱 I’m currently learning DevOps 
-- 👯 I’m looking to collaborate on Automation frameworks 
-- 💬 Ask me about How to automate stuff? 
+<img src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif" width="320" alt="hello"/>
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maxsudik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maxsudik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/maxsudik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/maxsudik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/maxsudik)  
+### About
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maxsudik&show_icons=true)  
+I'm a quality engineering leader with **11+ years** building automation-first organizations for cloud-native SaaS. I was the founding QA hire and 12th employee at [CyberQP](https://www.cyberqp.com), where I established the quality function from scratch and scaled it across microservices, APIs, web, mobile (iOS/Android), and native desktop.
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=maxsudik)  
+These days I work at the intersection of **traditional automation and AI-augmented QA** — combining distributed frameworks in Java and TypeScript with LLM-driven workflows for requirement analysis, test design, synthetic data generation, intelligent failure triage, and early self-healing strategies.
 
+Hands-on technical leader. I mentor SDETs, partner with engineering and DevOps to embed shift-left testing, contract validation, performance work, and observability-driven feedback loops directly into CI/CD.
 
+### 🔭 Currently
+
+- Leading QA at **CyberQP** across 6 engineering teams (Privileged Access Management & Help Desk Security)
+- Driving AI-assisted QA workflows with **Claude Code**, **Copilot Agents**, **ChatGPT Agents**, and **OpenAI Codex**
+- Sharpening Go and devops chops on the side — finally giving this profile some love
+
+### 🛠 Tech I work with
+
+**Automation:** Playwright · Selenium WebDriver · Cypress · Appium (iOS/Android) · REST Assured · Postman · JUnit · TestNG · Cucumber
+
+**Languages:** TypeScript · JavaScript · Java · Bash · PowerShell · Node.js
+
+**AI / LLM tooling:** Claude Code · GitHub Copilot (incl. Agents) · ChatGPT Agents & Projects · OpenAI Codex
+
+**CI/CD & Cloud:** Azure DevOps · GCP · Microsoft Azure · Jenkins · Spinnaker · Docker · Git
+
+**Performance:** JMeter · BlazeMeter · WebLoad
+
+**Data & Observability:** MongoDB · MySQL · Oracle · Elasticsearch · Kibana
+
+### 📈 Selected wins
+
+- Scaled an automation-first culture supporting **multiple deployments per day** across 6 engineering teams with **near-zero manual regression**
+- Drove regression defects to **<1% of all deliverables** through preventive automation and continuous quality gates
+- Helped maintain **99.9% uptime** across critical services via CI/CD-integrated contract validation and distributed parallel execution
+- Migrated automation infrastructure **Azure → GCP** with DevOps, improving environment stability and throughput
+- Contributed automated test evidence supporting **SOC 2 readiness**
+- Mentored **6 QA/SDET engineers** and rebuilt the org's automation architecture from the ground up
+
+### 🤝 Let's connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/maxsudik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:maxsudik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/maxsudik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxsudik&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxsudik&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170"/>
+</p>
