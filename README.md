@@ -103,8 +103,12 @@ I work where traditional automation meets AI-augmented QA — distributed framew
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maxsudik&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=8b949e&hide=contribs" alt="GitHub stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maxsudik&hide_border=true&background=00000000&stroke=38BDF8&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=maxsudik&show_icons=true&hide_border=true&theme=tokyonight&hide=contribs&count_private=true&include_all_commits=true" alt="GitHub stats" height="180"/>
+<img src="https://streak-stats.demolab.com?user=maxsudik&hide_border=true&theme=tokyonight" alt="GitHub streak" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsudik&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" height="160"/>
 
 </div>
 
