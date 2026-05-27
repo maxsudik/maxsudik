@@ -119,12 +119,15 @@ I work where traditional automation meets AI-augmented QA — distributed framew
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maxsudik&show_icons=true&hide_border=true&theme=tokyonight&hide=contribs&count_private=true&include_all_commits=true" alt="GitHub stats" height="180"/>
-<img src="https://streak-stats.demolab.com?user=maxsudik&hide_border=true&theme=tokyonight" alt="GitHub streak" height="180"/>
+<img src="https://komarev.com/ghpvc/?username=maxsudik&style=for-the-badge&color=38BDF8&label=Profile+views" alt="Profile views"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsudik&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" height="160"/>
+<img src="https://streak-stats.demolab.com?user=maxsudik&hide_border=true&theme=tokyonight" alt="GitHub streak" height="195"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maxsudik&bg_color=0d1117&color=38BDF8&line=A78BFA&point=ffffff&area=true&hide_border=true" alt="Contribution graph" width="780"/>
 
 </div>
 
