@@ -1,62 +1,111 @@
-<h1 align="left">Hi, I'm Max 👋</h1>
+<div align="center">
 
-<p align="left">
-  <b>Lead Quality Engineering Manager</b> · Vancouver, Canada<br/>
-  Building automation-first QA orgs for cloud-native SaaS — now with a heavy dose of AI.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Max%20Sudik&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Quality%20Engineering%20Lead%20%C2%B7%20Automation-First%20%C2%B7%20AI-Augmented&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Max Sudik"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&height=50&lines=Automation-first+QA+leader;11%2B+years+in+cloud-native+SaaS;Now+augmented+with+AI" alt="tagline"/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/maxsudik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:maxsudik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<a href="https://github.com/maxsudik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Automation--First-38BDF8?style=flat-square&labelColor=0F2027" alt="Automation-First"/>
+<img src="https://img.shields.io/badge/AI--Augmented-A78BFA?style=flat-square&labelColor=0F2027" alt="AI-Augmented"/>
+<img src="https://img.shields.io/badge/Cloud--Native%20SaaS-22C55E?style=flat-square&labelColor=0F2027" alt="Cloud-Native SaaS"/>
+<img src="https://img.shields.io/badge/Shift--Left-F59E0B?style=flat-square&labelColor=0F2027" alt="Shift-Left"/>
+<img src="https://img.shields.io/badge/SDET%20Leadership-EC4899?style=flat-square&labelColor=0F2027" alt="SDET Leadership"/>
+
+</div>
+
+<br>
+
+### 📌 About
+
+Quality engineering leader with **11+ years** building automation-first organizations for cloud-native SaaS. Founding QA hire and 12th employee at [CyberQP](https://www.cyberqp.com), where I built the quality function from scratch and scaled it across microservices, APIs, web, mobile, and native desktop.
+
+I work where traditional automation meets AI-augmented QA — distributed frameworks in Java and TypeScript alongside LLM-driven workflows for test design, synthetic data, failure triage, and self-healing. Hands-on leader: I mentor SDETs and partner with engineering and DevOps to embed shift-left testing, contract validation, and observability deep into CI/CD.
+
+<br>
+
+### ⚡ Now
+
+- 🎯 &nbsp;Leading QA at **CyberQP** across 6 engineering teams — Privileged Access Management & Help Desk Security
+- 🤖 &nbsp;Building AI-assisted QA workflows with **Claude Code · GitHub Copilot Agents · OpenAI Codex**
+- 🧪 &nbsp;Exploring agentic patterns for test generation and intelligent failure triage on the side
+
+<br>
+
+### 🛠 Tech
+
+<p>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Appium-662D91?style=flat&logo=appium&logoColor=white" />
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20Assured-3E863D?style=flat&logo=apachetomcat&logoColor=white" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" />
+<img src="https://img.shields.io/badge/TestNG-CC342D?style=flat" />
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white" />
 </p>
 
-<img src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif" width="320" alt="hello"/>
-
----
-
-### About
-
-I'm a quality engineering leader with **11+ years** building automation-first organizations for cloud-native SaaS. I was the founding QA hire and 12th employee at [CyberQP](https://www.cyberqp.com), where I established the quality function from scratch and scaled it across microservices, APIs, web, mobile (iOS/Android), and native desktop.
-
-These days I work at the intersection of **traditional automation and AI-augmented QA** — combining distributed frameworks in Java and TypeScript with LLM-driven workflows for requirement analysis, test design, synthetic data generation, intelligent failure triage, and early self-healing strategies.
-
-Hands-on technical leader. I mentor SDETs, partner with engineering and DevOps to embed shift-left testing, contract validation, performance work, and observability-driven feedback loops directly into CI/CD.
-
-### 🔭 Currently
-
-- Leading QA at **CyberQP** across 6 engineering teams (Privileged Access Management & Help Desk Security)
-- Driving AI-assisted QA workflows with **Claude Code**, **Copilot Agents**, **ChatGPT Agents**, and **OpenAI Codex**
-- Sharpening Go and devops chops on the side — finally giving this profile some love
-
-### 🛠 Tech I work with
-
-**Automation:** Playwright · Selenium WebDriver · Cypress · Appium (iOS/Android) · REST Assured · Postman · JUnit · TestNG · Cucumber
-
-**Languages:** TypeScript · JavaScript · Java · Bash · PowerShell · Node.js
-
-**AI / LLM tooling:** Claude Code · GitHub Copilot (incl. Agents) · ChatGPT Agents & Projects · OpenAI Codex
-
-**CI/CD & Cloud:** Azure DevOps · GCP · Microsoft Azure · Jenkins · Spinnaker · Docker · Git
-
-**Performance:** JMeter · BlazeMeter · WebLoad
-
-**Data & Observability:** MongoDB · MySQL · Oracle · Elasticsearch · Kibana
-
-### 📈 Selected wins
-
-- Scaled an automation-first culture supporting **multiple deployments per day** across 6 engineering teams with **near-zero manual regression**
-- Drove regression defects to **<1% of all deliverables** through preventive automation and continuous quality gates
-- Helped maintain **99.9% uptime** across critical services via CI/CD-integrated contract validation and distributed parallel execution
-- Migrated automation infrastructure **Azure → GCP** with DevOps, improving environment stability and throughput
-- Contributed automated test evidence supporting **SOC 2 readiness**
-- Mentored **6 QA/SDET engineers** and rebuilt the org's automation architecture from the ground up
-
-### 🤝 Let's connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/maxsudik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:maxsudik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/maxsudik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<p>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
 </p>
 
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxsudik&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxsudik&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170"/>
+<p>
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT%20Agents-10A37F?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat&logo=openai&logoColor=white" />
 </p>
+
+<p>
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Spinnaker-139BB4?style=flat&logo=spinnaker&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white" />
+<img src="https://img.shields.io/badge/BlazeMeter-CE2027?style=flat" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white" />
+</p>
+
+<br>
+
+### 🏆 Selected work
+
+- 🚀 &nbsp;Scaled an automation-first culture supporting **multiple deployments per day** across 6 teams, with near-zero manual regression
+- 🛡️ &nbsp;Drove regression defects below **1% of deliverables** through preventive automation and continuous quality gates
+- 📈 &nbsp;Maintained **99.9% uptime** on critical services via CI/CD contract validation and distributed parallel execution
+- ☁️ &nbsp;Migrated automation infrastructure **Azure → GCP**, improving environment stability and throughput
+- 🔒 &nbsp;Contributed automated test evidence supporting **SOC 2 readiness**
+- 👥 &nbsp;Rebuilt the org's automation architecture and mentored **6 QA/SDET engineers**
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=maxsudik&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=8b949e&hide=contribs" alt="GitHub stats" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maxsudik&hide_border=true&background=00000000&stroke=38BDF8&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" height="170"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer&text=Thanks%20for%20visiting&fontColor=ffffff&fontSize=16&fontAlignY=72" width="100%" alt="footer"/>
