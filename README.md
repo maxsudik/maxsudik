@@ -127,7 +127,7 @@ I work where traditional automation meets AI-augmented QA — distributed framew
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maxsudik&bg_color=0d1117&color=38BDF8&line=A78BFA&point=ffffff&area=true&hide_border=true" alt="Contribution graph" width="780"/>
+<img src="https://ghchart.rshah.org/38BDF8/maxsudik" alt="Contribution graph" width="780"/>
 
 </div>
 
